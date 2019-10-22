@@ -3,6 +3,7 @@
 MineSweeper on Unity Editor Window
 
 
-# Images Lisence
+# Images 
 
-[いらすとや](https://www.irasutoya.com/)  holds all licenses for the images on this repository
+this repository removed images.
+So. You should add image resources https://github.com/Marimoiro/MineSweeperOnUnityEditor/tree/master/Assets/Resources
